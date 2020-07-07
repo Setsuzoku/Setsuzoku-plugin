@@ -4,3 +4,6 @@ main: me.setsuzoku.setsuzoku.Setsuzoku
 api-version: 1.16
 authors: [punchinglikes, MikeModder]
 description: Minecraft plugin for Setsuzoku
+commands:
+  help:
+    description: sends helpful information.
