@@ -9,7 +9,7 @@
 out/
 
 # Compiled class file
-*.class
+#*.class
 
 # Log file
 *.log
@@ -110,5 +110,5 @@ buildNumber.properties
 .flattened-pom.xml
 
 # Common working directory
-run/
-/src/main/java/me/setsuzoku/setsuzoku/Setsuzoku.java
+#run/
+#/src/main/java/me/setsuzoku/setsuzoku/Setsuzoku.java
